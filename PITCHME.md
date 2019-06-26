@@ -1,4 +1,4 @@
-## Fuctional Programming
+### Fuctional Programming
 
 ---
 ## Main Content
@@ -7,9 +7,8 @@
 - Key Concepts
 - Good & Bad
 
----
 ---?code=src/basic.js&lang=javascript&color=#1E1F21&title=Basic Code Style
-greeting 只不过是转了个身然后以相同的参数调用了 hi 函数而已
+@[1-8](greeting 只不过是转了个身然后以相同的参数调用了 hi 函数而已)
 
 ---?code=src/stupid.js&lang=javascript&color=#1E1F21&title=Code Style
 
