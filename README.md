@@ -6,3 +6,7 @@
 ## Prerequisites
 * Basic knowledge of JavaScript
 * Node.js
+* Basic knowledge of functional programming
+* Basic knowledge of React
+* Basic knowledge of TypeScript
+
